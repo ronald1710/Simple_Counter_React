@@ -2,10 +2,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import PropTypes from 'prop-types';
-import 'bootstrap'; 
-import './component/icons.js';
+//import "bootstrap"; 
+//import "./component/icons.js";
 import "../styles/index.css";
-import  checkPropTypes  from "prop-types";
+
 
 function SimpleCounter(props) {
     return(<div className="bigCounter">
